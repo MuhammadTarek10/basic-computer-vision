@@ -2,3 +2,4 @@ venv/
 *checkpoints/
 data/
 yolo*/
+*.DS_Store
